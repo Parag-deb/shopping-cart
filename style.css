@@ -53,3 +53,8 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+#checkOutDisplay{
+	text-align: center;
+	display: none; 
+}
+
